@@ -1,2 +1,3 @@
 very cool feature
-Another cool linew
+Another cool line
+This is so cool
